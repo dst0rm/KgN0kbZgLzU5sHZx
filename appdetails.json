@@ -11,13 +11,11 @@
     {"id":1, "app":"com.utorrent.client"},
     {"id":2, "app":"com.torrent.client"},
     {"id":3, "app":"com.tor.client"},
-    {"id":4, "app":"com.insta.client"},
-    {"id":5, "app":"com.facebook.client"},
-    {"id":6, "app":"com.get.client"}
+    {"id":4, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Hamburg","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":2, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"}
+    {"id":0, "file":0, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"85.192.41.196","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Geneva","country":"switzerland","image":"vietnam","ip":"185.237.225.157","active":"true","signal":"b"},
+    {"id":2, "file":2, "city":"Miami FL","country":"United States","image":"unitedstates","ip":"80.68.159.25","active":"true","signal":"c"}
   ]
 }
