@@ -3,7 +3,7 @@
 	{"id":0,"file":"client
 dev tun
 proto udp
-remote vpn.freedomvpn.ru
+remote 85.192.41.196 1194
 resolv-retry infinite
 nobind
 persist-key
