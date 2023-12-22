@@ -15,7 +15,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Best choice","country":"Best choice","image":"thailand","ip":"185.237.225.157","active":"true","signal":"a"},
-    //{"id":1, "file":1, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"185.237.225.157","active":"true","signal":"d"},
+    {"id":1, "file":1, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"185.237.225.157","active":"true","signal":"d"},
     {"id":2, "file":2, "city":"Geneva","country":"switzerland","image":"vietnam","ip":"185.237.225.157","active":"true","signal":"b"},
     {"id":3, "file":3, "city":"Miami FL","country":"United States","image":"unitedstates","ip":"185.237.225.157","active":"true","signal":"c"}
   ]
